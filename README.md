@@ -207,6 +207,10 @@ The neural networks are not a definitive answer for all information data science
 
 ![](https://github.com/DougUOT/Neural_Network_Charity_Analysis/blob/main/Resources/Images/Capture19_5.PNG)
 
+## NOTE
+
+Note: All the checkpoints HDF5 Files are available on [HDF5 Files Folder](https://github.com/DougUOT/Neural_Network_Charity_Analysis/tree/main/Resources/Checkpoints%20HDF5%20Files%20saved)
+
 ## RECOMMENDATIONS
 
 In the future or as additional analysis, we recommend other different models such as Random Forest, boosting and SVMs in order to increase the result accuracy.
